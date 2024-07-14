@@ -1,0 +1,62 @@
+
+chia_khoa_zone.png
+size: 620,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X
+  rotate: false
+  xy: 506, 210
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+be
+  rotate: false
+  xy: 2, 18
+  size: 226, 286
+  orig: 226, 286
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 506, 154
+  size: 110, 54
+  orig: 110, 54
+  offset: 0, 0
+  index: -1
+ca_xau
+  rotate: false
+  xy: 230, 6
+  size: 118, 82
+  orig: 118, 82
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 230, 90
+  size: 274, 214
+  orig: 274, 214
+  offset: 0, 0
+  index: -1
+mat_troi
+  rotate: false
+  xy: 466, 2
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 506, 126
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ten_lua
+  rotate: false
+  xy: 350, 6
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: -1
